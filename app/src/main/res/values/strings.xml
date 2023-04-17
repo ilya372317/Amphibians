@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Amphibians</string>
+    <string name="failed_loading">Failed to loading page</string>
+</resources>
